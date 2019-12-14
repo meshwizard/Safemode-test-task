@@ -1,0 +1,50 @@
+[
+  {
+    "id": "a4194b50-7457-45fe-b91b-36ba1bc2b82f",
+    "first_name": "Iran",
+    "last_name": "Zam",
+    "email": "iran@connectlogistics.co",
+    "phoneNumber": "054-321-34-21",
+    "role": "ADMIN"
+  },
+  {
+    "id": "0c68c435-6981-4ec3-b729-fc4cd688758b",
+    "first_name": "Oriana",
+    "last_name": "Friedman",
+    "email": "oriana@connectlogistics.co",
+    "phoneNumber": "058-434-97-21",
+    "role": "ADMIN"
+  },
+  {
+    "id": "c811b200-f990-499b-a024-a38e4e385282",
+    "first_name": "Hanan",
+    "last_name": "Friedman",
+    "email": "hanan@connectlogistics.co",
+    "phoneNumber": "052-444-32-12",
+    "role": "FLEET MANAGER"
+  },
+  {
+    "id": "daa507fd-ef35-46a8-b5b7-3a1c33fc99f2",
+    "first_name": "Tali",
+    "last_name": "Balan",
+    "email": "tali@connectlogistics.co",
+    "phoneNumber": "054-565-02-65",
+    "role": "FLEET MANAGER"
+  },
+  {
+    "id": "e857b751-9d5a-4d94-920a-6866e23d46a8",
+    "first_name": "Cartis",
+    "last_name": "Halevi",
+    "email": "halevi@connectlogistics.co",
+    "phoneNumber": "052-342-86-90",
+    "role": "FLEET MANAGER"
+  },
+  {
+    "id": "d4b0734b-2912-4e94-bce9-8eab2ab50360",
+    "first_name": "Karina",
+    "last_name": "Coweuppe",
+    "email": "karina@connectlogistics.co",
+    "phoneNumber": "058-666-43-06",
+    "role": "FLEET MANAGER"
+  }
+]
